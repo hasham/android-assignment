@@ -21,6 +21,9 @@ Following are the things required:
 
 We would like you to use LibreTranslate API to implement the translation functionality. The documentation for the API is here: [https://libretranslate.com/docs/](https://libretranslate.com/docs/)
 
+## NOTE
+You're required to fork this project and commit only into your forked project, upon completion of your assignment, share your forked repo with us.
+
 
 Your tasks are as follows:
 
