@@ -6,11 +6,18 @@
 
 ## Overview
 
-You have been asked to create a translation app! Following are the things required:
+You have been asked to create a translation app! 
+
+Following are the things required:
+
 1: create a screen with input where you'd enter text-to-be-translated
+
 2: a text view where the translated text of the text you entered will be populated
+
 3: a dropdown that will have available translation languages available from the APIs
+
 4: a button at the end, upon clicking the button, it will show translated result in the view you created in point 2.
+
 
 We would like you to use LibreTranslate API to implement the translation functionality. The documentation for the API is here: [https://libretranslate.com/docs/](https://libretranslate.com/docs/)
 
