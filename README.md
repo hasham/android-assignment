@@ -30,3 +30,11 @@ Your tasks are as follows:
 - Fetch the list of languages supported by the LibreTranslate API (use `https://libretranslate.de/` as API Root, this version does not require an auth token). The UI is already set up to allow the user to pick from a list of languages provided by the view model.
 - Implement the translation functionality and hook it up to the UI.
 - structure the code and architecture as if you're working on a large scale project using the best coding practices.
+
+## Bonus point will be awarded for the use of:
+
+- dependency injection
+- data binding
+- counroutines with flow
+- CLEAN arch
+- mvvm / mvi
